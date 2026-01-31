@@ -8,7 +8,7 @@ class animal(ABC):
 class Human(animal):
 
         def move(self):
-                print("I can walk and run")
+                print("I can walk,run and jump ")
 
 class Snake(animal):
       
